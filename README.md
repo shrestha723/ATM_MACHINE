@@ -4,9 +4,8 @@ This project was to make an automated teller machine with user's account and pas
 
 Predefined account and password:
 
-Account #:  123456789
-Password #: 1234
+Account #: 125789346
+Password #: 1254
 
 Account #: 123456789
 Password #: 1230
-
